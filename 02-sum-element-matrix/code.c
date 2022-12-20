@@ -1,0 +1,1 @@
+//write a c code to sum all elements of a MxN matrix
